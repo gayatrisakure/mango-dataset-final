@@ -1,0 +1,3 @@
+semifresh
+rotten
+fresh
